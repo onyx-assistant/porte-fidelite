@@ -1,0 +1,9 @@
+# Porte qualité Onyx — dépendances (toutes gratuites, locales)
+numpy>=1.26
+Pillow>=10
+onnxruntime>=1.17
+# psd-tools : lecture de la structure des PSD par la suite de tests
+# (tools/run_tests.py, contrôle C3) via l'interpréteur de ce venv —
+# dépendance déclarée et pérenne depuis le 22 nov. 2026 (backlog nº 16) ;
+# avant, elle ne vivait que dans un environnement jetable (/tmp/psdvenv).
+psd-tools>=1.27
