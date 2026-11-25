@@ -41,7 +41,7 @@ from PIL import Image
 CHARTE_ORANGES = {
     "orange_lumiere": "#FC8B32",
     "orange_median": "#C95D1D",
-    "orange_ombre": "#8D2E0F",
+    "orange_ombre": "#812900",
 }
 CHARTE_AUTRES = {
     "noir_chaud": "#1A1512",   # yeux, sourcils, broderies (~)

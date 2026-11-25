@@ -42,7 +42,7 @@ Sorties : un résumé texte par image sur stdout, et le détail complet (toutes 
 
 Le personnage est isolé (canal alpha si présent, sinon soustraction du fond par la couleur médiane du cadre), aplati sur fond blanc (le fond d'identité de la charte), puis :
 
-- chaque pixel du masque est rattaché à la couleur charte la plus proche (oranges `#FC8B32` / `#C95D1D` / `#8D2E0F`, noir chaud `#1A1512`, blanc — charte §3) ;
+- chaque pixel du masque est rattaché à la couleur charte la plus proche (oranges `#FC8B32` / `#C95D1D` / `#812900`, noir chaud `#1A1512`, blanc — charte §3) ;
 - métriques : **ΔE médian** des pixels rattachés aux oranges (distance au ton charte le plus proche) et **couverture conforme** = part des pixels du masque à ΔE ≤ 10 d'un orange charte ;
 - le rapport JSON liste aussi les 6 couleurs dominantes du masque (grappes) avec leur ΔE.
 
