@@ -11,7 +11,7 @@ elle passe une **porte** : un ensemble de contrôles automatiques, entièrement
 locaux, qui la comparent à la référence officielle du personnage. Si ça ne
 ressemble pas à Onyx, ça ne sort pas.
 
-Onyx est une peluche orange virtuelle fabriquée dans un atelier à Montréal.
+Onyx est une peluche virtuelle fabriquée dans un atelier à Montréal.
 Son apparence est **verrouillée** : mêmes couleurs, mêmes proportions, mêmes
 traits, partout et toujours. Ce dépôt contient les deux instruments qui
 gardent cette constance — un pour les images, un pour la voix.
